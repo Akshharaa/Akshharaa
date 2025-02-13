@@ -17,18 +17,6 @@ Here are some ideas to get you started:
 # 👋 Hello, I'm Akshharaa  
 🔹 **Data Engineer** | **Data Analyst** | **Machine Learning Enthusiast**  
 💡 Passionate about transforming raw data into insightful stories and building scalable data systems that drive decision-making and innovation.
-
----
-
-## 🎓 **Education**  
-### Master of Science in Computer Science  
-**Boise State University**, Boise, Idaho, USA (Aug 2022 - May 2024)  
-*GPA: 3.8/4*
-
-### Bachelor of Technology in Computer Science  
-**SASTRA Deemed University**, Thanjavur, Tamil Nadu, India (Jun 2017 - Jul 2021)  
-*GPA: 3.4/4*
-
 ---
 
 ## 🛠️ **Technical Skills**
