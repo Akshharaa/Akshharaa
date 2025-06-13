@@ -45,15 +45,13 @@ Here are some ideas to get you started:
 
 ## 💼 **Professional Experience**
 
-### **Data Engineer**  
+### **Data Engineer Intern**  
 **Axis Tech Inc.** | September 2024 - Present  
-I design, implement, and optimize large-scale data pipelines to enable data-driven decisions. Here's what I’ve been up to:  
-- **Migration of 200TB Real Estate Data**: Led the migration of a massive dataset from Snowflake to Databricks, ensuring reliability and consistency while optimizing the data flow.  
-- **Building Scalable Data Pipelines**: Developed pipelines that automate data ingestion from PostgreSQL, Oracle DB, and Fivetran to Azure Data Lake Storage (ADLS) using **DBT** transformations and **Apache Airflow**.  
-- **Real-time Data Processing**: Implemented **Kafka-based streaming pipelines** with Change Data Capture (CDC) to ensure real-time updates with low latency.  
-- **Optimizing SQL Scripts**: Refactored over 2,500 Snowflake SQL scripts for compatibility with **Spark SQL**, enhancing performance and query efficiency.  
-- **Data Validation Framework**: Designed a robust validation framework to ensure schema integrity within **Databricks**, improving data quality across multiple layers.  
-- **Enhanced CI/CD workflows**: Optimized Databricks clusters with **Photon acceleration** and automated the CI/CD process for DBT models, reducing operational costs.
+At Axis Tech, I focused on developing optimized SQL logic and supporting business intelligence initiatives:
+- **Advanced SQL Development**: Built complex SQL queries using CTEs, subqueries, aggregations, and window functions to prepare clean datasets for analytics use cases.
+- **BI Collaboration**: Partnered with Power BI teams to understand reporting needs and delivered production-ready SQL powering dynamic dashboards.
+- **Query Optimization**: Transformed and fine-tuned SQL logic for better performance, clarity, and consistency, directly improving reporting efficiency.
+- **Code Maintainability**: Refactored repetitive query logic into streamlined, reusable components—enhancing long-term maintainability and readability.
 
 ### **Data Analyst**  
 **Idaho Transportation Department** | May 2023 - May 2024  
@@ -65,7 +63,7 @@ In this role, I analyzed transportation data to inform policy decisions and impr
 ### **Graduate Assistant**  
 **Boise State University** | Aug 2022 - May 2023  
 As a graduate assistant, I supported students and faculty by providing technical assistance and developing academic materials:  
-- **Tutoring & Mentorship**: Assisted students with Python, SQL, and data science concepts, fostering a deeper understanding of programming and analytical thinking.  
+- **Tutoring & Mentorship**: Assisted students with SQL, and data science concepts, fostering a deeper understanding of programming and analytical thinking.  
 - **Collaborative Curriculum Development**: Worked closely with professors to design assignments and quizzes that reinforced real-world applications of data science.  
 
 ### **Associate Software Engineer**  
