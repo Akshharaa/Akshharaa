@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## 🛠️ **Technical Skills**
 
 ### **Programming & Scripting**  
-- Python, C++, PySpark, SQL, FastAPI, Streamlit
+- Python, C++, SQL, FastAPI, Streamlit
 
 ### **Data Engineering & Databases**  
 - MySQL, PostgreSQL, Azure SQL Data Warehouse, Snowflake  
