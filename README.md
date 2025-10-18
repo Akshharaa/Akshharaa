@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ## 💼 **Professional Experience**
 
 ### **Data Engineer Intern**  
-**Axis Tech Inc.** | September 2024 - Present  
+**Axis Tech Inc.** | September 2024 - April 2025
 At Axis Tech, I focused on developing optimized SQL logic and supporting business intelligence initiatives:
 - **Advanced SQL Development**: Built complex SQL queries using CTEs, subqueries, aggregations, and window functions to prepare clean datasets for analytics use cases.
 - **BI Collaboration**: Partnered with Power BI teams to understand reporting needs and delivered production-ready SQL powering dynamic dashboards.
