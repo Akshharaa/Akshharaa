@@ -45,14 +45,6 @@ Here are some ideas to get you started:
 
 ## 💼 **Professional Experience**
 
-### **Data Engineer Intern**  
-**Axis Tech Inc.** | September 2024 - April 2025
-At Axis Tech, I focused on developing optimized SQL logic and supporting business intelligence initiatives:
-- **Advanced SQL Development**: Built complex SQL queries using CTEs, subqueries, aggregations, and window functions to prepare clean datasets for analytics use cases.
-- **BI Collaboration**: Partnered with Power BI teams to understand reporting needs and delivered production-ready SQL powering dynamic dashboards.
-- **Query Optimization**: Transformed and fine-tuned SQL logic for better performance, clarity, and consistency, directly improving reporting efficiency.
-- **Code Maintainability**: Refactored repetitive query logic into streamlined, reusable components—enhancing long-term maintainability and readability.
-
 ### **Data Analyst**  
 **Idaho Transportation Department** | May 2023 - May 2024  
 In this role, I analyzed transportation data to inform policy decisions and improve infrastructure planning:  
